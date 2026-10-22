@@ -1,0 +1,27 @@
+[
+  {
+    "city": "Paris",
+    "temp": "11",
+    "desc": "Overcast "
+  },
+  {
+    "city": "Paris",
+    "temp": "11",
+    "desc": "Overcast "
+  },
+  {
+    "city": "New York",
+    "temp": "12",
+    "desc": "Overcast "
+  },
+  {
+    "city": "Roma",
+    "temp": "19",
+    "desc": "Sunny"
+  },
+  {
+    "city": "Chicago",
+    "temp": "16",
+    "desc": "Smoky haze"
+  }
+]
